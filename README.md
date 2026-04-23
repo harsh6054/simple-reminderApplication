@@ -26,8 +26,3 @@ A simple **Reminder Application built using Python** that allows users to set, v
 
 ---
 
-
-
-
-
-
