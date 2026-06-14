@@ -5,7 +5,6 @@ A simple **Reminder Application built using Python** that allows users to set, v
 ---
 
 ## 📌 Features
-
 - Add new reminders with message and time/date
 - View all scheduled reminders
 - Simple command-line based interaction
@@ -13,7 +12,6 @@ A simple **Reminder Application built using Python** that allows users to set, v
 - Lightweight and easy to use
 
 ---
-
 ## 🛠️ Technologies Used
 
 - **Language:** Python 3  
